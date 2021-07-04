@@ -5,11 +5,17 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    text-align: justify;
+}
 .orange{
     color:orange;
 }
-.top-banner{
+section{
     display: flex;
+    margin-bottom:150px;
+}
+.top-banner{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -28,4 +34,9 @@ h1{
     padding:10px 40px;
     color:white;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
