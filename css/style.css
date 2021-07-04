@@ -34,6 +34,8 @@ section{
     padding:10px 40px;
     color:white;
     border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
 }
 .dream-big{
     background-image: url(../images/dream-bg.png);
